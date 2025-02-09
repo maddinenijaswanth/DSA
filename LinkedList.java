@@ -51,6 +51,7 @@ public class LinkedList{
         ll.appendFirst(3);
         ll.appendFirst(4);
         ll.appendFirst(5);
+        ll.appendFirst(6);
 
         ll.printList();
     }
